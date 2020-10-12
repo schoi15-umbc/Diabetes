@@ -12,7 +12,7 @@ Code            :<a  </a>
 [Goals](https://github.com/schoi15-umbc/Diabetes#goals) -
 [Motivation and Background](https://github.com/schoi15-umbc/Diabetes#motivation-and-backgroud) -
 [Data](https://github.com/schoi15-umbc/Diabetes#data) -
-[Project Info](https://github.com/schoi15-umbc/Diabetes#project-info) -
+[Project Info](https://github.com/schoi15-umbc/Diabetes#project-info) 
 
 
 ## **Overview**
