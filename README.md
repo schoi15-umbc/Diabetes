@@ -28,7 +28,7 @@ Predicting diabetes based on 8 different factors by using Logistic Regression mo
 
 
 ## **Data**
-The dataset is obtained from [Kaggle (diabetes dataset)](https://www.kaggle.com/johndasilva/diabetes), originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. It includes 2000 observations, each representing an individual. 
+The dataset is obtained from [Kaggle (diabetes dataset)](https://www.kaggle.com/johndasilva/diabetes), originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient (female, over age 20) has diabetes, based on certain diagnostic measurements included in the dataset. It includes 2000 observations, each representing an individual. 
 There are 9 Columns: 
 
 1. Pregnancies: Number of times pregnant
@@ -47,7 +47,7 @@ There are 9 Columns:
 <pre>
 Software Requirements
 Language/Tool: Python (Anaconda)
-Libraries: 
+Libraries: pandas, seaborn, numpy, matplotlib, sklearn, scipy
 </pre>
 
 <pre>
