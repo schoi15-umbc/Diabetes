@@ -20,7 +20,9 @@ Presentation    :<a  </a>
 
 ## **Overview**
 
+
 ## **Goals**
+Predicting diabetes based on 8 different factors by using Logistic Regression model, and finding out which factor affects the outcome the most. 
 
 ## **Motivation and Background**
 
@@ -28,15 +30,16 @@ Presentation    :<a  </a>
 ## **Data**
 The dataset is obtained from [Kaggle (diabetes dataset)](https://www.kaggle.com/johndasilva/diabetes), originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. It includes 2000 observations, each representing an individual. 
 There are 9 Columns: 
-1. Pregnancies   
-2. Glucose   
-3. BloodPressure   
-4. SkinThickness  
-5. Insulin  
-6. BMI
-7. DiabetesPedigreeFunction
-8. Age
-9. Outcome 
+
+1. Pregnancies: Number of times pregnant
+2. Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+3. BloodPressure: Diastolic blood pressure (mm Hg)
+4. SkinThickness: Triceps skin fold thickness (mm)
+5. Insulin: 2-Hour serum insulin (mu U/ml)
+6. BMI: Body mass index (weight in kg/(height in m)^2)
+7. DiabetesPedigreeFunction: Diabetes pedigree function
+8. Age: Age (years)
+9. Outcome: Class variable (0 or 1)
 
 
 ## **Project Info**
