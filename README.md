@@ -39,7 +39,9 @@ There are 9 Columns:
 ## **Project Info**
 
 <pre>
-Software Requirements - Packages used : </a>
+**Software Requirements**
+Language/Tool: Python (Anaconda)
+Libraries: 
 </pre>
 
 <pre>
