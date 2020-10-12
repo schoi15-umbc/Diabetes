@@ -39,7 +39,7 @@ There are 9 Columns:
 ## **Project Info**
 
 <pre>
-**Software Requirements**
+Software Requirements
 Language/Tool: Python (Anaconda)
 Libraries: 
 </pre>
@@ -48,7 +48,9 @@ Libraries:
 Related Studies
 
 1. Center of Disease Control and Prevention (CDC). (2020). National Diabetes Statistics Report, 2020 (CS 314227-A). 
-Retrieved from US department of Health and Human Services website: https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf
+Retrieved from US department of Health and Human Services website:
+https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf <a href=https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf>Link</a>
+
 
 2. Sisodia, D., & Sisodia, D. S. (2018). Prediction of diabetes using classification algorithms. 
 Procedia Computer Science, 132, 1578-1585. doi:10.1016/j.procs.2018.05.122 <a href=https://reader.elsevier.com/reader/sd/pii/S1877050918308548?token=A7FEE310F8811BAA3534C1445A9ED03CC4CBB7C487AA3D4EAF6A32F69B01D7530B8F4FF21BC983425FC92D5389515EC4>Link</a>
