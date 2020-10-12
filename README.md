@@ -19,7 +19,7 @@ Code            :<a  </a>
 
 ## **Goals**
 
-## **Motivation and Backgroud**
+## **Motivation and Background**
 
 
 ## **Data**
@@ -42,6 +42,12 @@ There are 9 Columns:
 **Software Requirements**
 Language/Tool: Python (Anaconda)
 Libraries: 
+</pre>
+
+<pre>
+Related Studies
+
+1. Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.<a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf>Link</a>
 </pre>
 
 <pre>
