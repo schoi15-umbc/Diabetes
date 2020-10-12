@@ -3,12 +3,6 @@
 ![diabetes_age20over](https://user-images.githubusercontent.com/70929605/95778116-70f99f80-0c95-11eb-97ee-33d914ec2da6.JPG)
 
 
-## **Repository Navigation**
-<pre>
-Code            :<a  </a>
-Presentation    :<a  </a>
-</pre>
-
 ## **Table of Content**
 
 [Overview](https://github.com/schoi15-umbc/Diabetes#overview)-
@@ -19,10 +13,16 @@ Presentation    :<a  </a>
 
 
 ## **Overview**
+This project is to see if we can predict diabetes based on 8 different factors by using Logistic Regression model, and finding out which factor affects the outcome the most. 
 
+<pre>
+Executive Code  :<a  </a>
+Presentation    :<a  </a>
+</pre>
 
 ## **Goals**
-Predicting diabetes based on 8 different factors by using Logistic Regression model, and finding out which factor affects the outcome the most. 
+1. Data Preparation     : Cleaning data, and creating visualizations for deeper understandment of the dataset. 
+2. Classification Model : Logistic regression model used and evaluated to find the highest accuracy in predicting diabetes. 
 
 ## **Motivation and Background**
 
