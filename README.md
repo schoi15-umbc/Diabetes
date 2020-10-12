@@ -55,7 +55,7 @@ Libraries: pandas, seaborn, numpy, matplotlib, sklearn, scipy
 <pre>
 Related Studies
 
-1. Center of Disease Control and Prevention (CDC). (2020). National Diabetes Statistics Report, 2020 (CS 314227-A). 
+1. Center of Disease Control and Prevention (CDC). (2020). National Diabetes Statistics Report, 2020 . 
 Retrieved from US department of Health and Human Services website:
 https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf <a href=https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf>Link</a>
 
