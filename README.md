@@ -8,11 +8,11 @@ Code            :<a  </a>
 
 ## **Table of Content**
 
-[Overview](https://github.com/schoi15-umbc/Insurance-cost-prediction##Summary)-
-[Goals](https://github.com/schoi15-umbc/Insurance-cost-prediction##Data) -
-[Motivation and Background](https://github.com/schoi15-umbc/Insurance-cost-prediction##Project-Info)
-[Data](https://github.com/schoi15-umbc/Insurance-cost-prediction##Project-Info)
-[Project Info](https://github.com/schoi15-umbc/Insurance-cost-prediction##Project-Info)
+[Overview](https://github.com/schoi15-umbc/Diabetes#overview)-
+[Goals](https://github.com/schoi15-umbc/Diabetes#goals) -
+[Motivation and Background](https://github.com/schoi15-umbc/Diabetes#motivation-and-backgroud) -
+[Data](https://github.com/schoi15-umbc/Diabetes#data) -
+[Project Info](https://github.com/schoi15-umbc/Diabetes#project-info) -
 
 
 ## **Overview**
