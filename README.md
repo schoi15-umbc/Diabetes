@@ -1,6 +1,6 @@
 # **Diabetes Prediction**
 
-![diabetes_age20over](https://user-images.githubusercontent.com/70929605/95778116-70f99f80-0c95-11eb-97ee-33d914ec2da6.JPG)
+![americandiabetes](https://user-images.githubusercontent.com/70929605/95784951-d1430e00-0ca2-11eb-814a-36cdaccb1076.JPG)
 
 
 ## **Table of Content**
