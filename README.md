@@ -25,7 +25,8 @@ Presentation    :<a  </a>
 2. Classification Model : Logistic regression model used and evaluated to find the highest accuracy in predicting diabetes. 
 
 ## **Motivation and Background**
-![americandiabetes](https://user-images.githubusercontent.com/70929605/95784951-d1430e00-0ca2-11eb-814a-36cdaccb1076.JPG)
+![fastfacts](https://user-images.githubusercontent.com/70929605/95785162-3d257680-0ca3-11eb-8cdf-26b2d4d49708.JPG)
+
 
 
 ## **Data**
