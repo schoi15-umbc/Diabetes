@@ -1,5 +1,6 @@
 # **Diabetes**
-https://github.com/schoi15-umbc/Diabetes/issues/1#issue-719569130
+![diabetes_age20over](https://user-images.githubusercontent.com/70929605/95778116-70f99f80-0c95-11eb-97ee-33d914ec2da6.JPG)
+
 
 ## **Repository Navigation**
 <pre>
