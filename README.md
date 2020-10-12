@@ -47,13 +47,18 @@ Libraries:
 <pre>
 Related Studies
 
-1. Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). 
+1. Center of Disease Control and Prevention (CDC). (2020). National Diabetes Statistics Report, 2020 (CS 314227-A). 
+Retrieved from US department of Health and Human Services website: https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf
+
+2. Sisodia, D., & Sisodia, D. S. (2018). Prediction of diabetes using classification algorithms. 
+Procedia Computer Science, 132, 1578-1585. doi:10.1016/j.procs.2018.05.122 <a href=https://reader.elsevier.com/reader/sd/pii/S1877050918308548?token=A7FEE310F8811BAA3534C1445A9ED03CC4CBB7C487AA3D4EAF6A32F69B01D7530B8F4FF21BC983425FC92D5389515EC4>Link</a>
+
+3. Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). 
 Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. 
 In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). 
 IEEE Computer Society Press. <a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf>Link</a>
 
-2. Sisodia, D., & Sisodia, D. S. (2018). Prediction of diabetes using classification algorithms. 
-Procedia Computer Science, 132, 1578-1585. doi:10.1016/j.procs.2018.05.122 <a href=https://reader.elsevier.com/reader/sd/pii/S1877050918308548?token=A7FEE310F8811BAA3534C1445A9ED03CC4CBB7C487AA3D4EAF6A32F69B01D7530B8F4FF21BC983425FC92D5389515EC4>Link</a>
+
 
 </pre>
 
