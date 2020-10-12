@@ -60,8 +60,6 @@ Using the ADAP learning algorithm to forecast the onset of diabetes mellitus.
 In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). 
 IEEE Computer Society Press. <a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf>Link</a>
 
-
-
 </pre>
 
 <pre>
