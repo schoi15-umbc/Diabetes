@@ -26,7 +26,7 @@ Presentation    :<a  </a>
 
 ## **Motivation and Background**
 ![fastfacts](https://user-images.githubusercontent.com/70929605/95785162-3d257680-0ca3-11eb-8cdf-26b2d4d49708.JPG)
-
+According to CDC's National Diabetes Statistics Report, 10.5% (34.2 million people) of USA's total population had diabetes in 2018's records. 
 
 
 ## **Data**
