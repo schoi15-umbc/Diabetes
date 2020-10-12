@@ -6,14 +6,20 @@
 Code            :<a  </a>
 </pre>
 
-## **ReadME Navigation**
+## **Table of Content**
 
-[Summary](https://github.com/schoi15-umbc/Insurance-cost-prediction##Summary)-
-[Data](https://github.com/schoi15-umbc/Insurance-cost-prediction##Data) -
+[Overview](https://github.com/schoi15-umbc/Insurance-cost-prediction##Summary)-
+[Goals](https://github.com/schoi15-umbc/Insurance-cost-prediction##Data) -
+[Motivation and Background](https://github.com/schoi15-umbc/Insurance-cost-prediction##Project-Info)
+[Data](https://github.com/schoi15-umbc/Insurance-cost-prediction##Project-Info)
 [Project Info](https://github.com/schoi15-umbc/Insurance-cost-prediction##Project-Info)
 
 
-## **Summary**
+## **Overview**
+
+## **Goals**
+
+## **Motivation and Backgroud**
 
 
 ## **Data**
@@ -31,6 +37,10 @@ There are 9 Columns:
 
 
 ## **Project Info**
+
+<pre>
+Software Requirements - Packages used : </a>
+</pre>
 
 <pre>
 Contributors : <a href=https://github.com/schoi15-umbc>Sooyeon Choi</a>
