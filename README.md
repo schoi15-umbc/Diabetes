@@ -7,7 +7,7 @@
 
 [Overview](https://github.com/schoi15-umbc/Diabetes#overview)-
 [Goals](https://github.com/schoi15-umbc/Diabetes#goals) -
-[Motivation and Background](https://github.com/schoi15-umbc/Diabetes#motivation-and-backgroud) -
+[Motivation and Background](https://github.com/schoi15-umbc/Diabetes#motivation-and-background) -
 [Data](https://github.com/schoi15-umbc/Diabetes#data) -
 [Project Info](https://github.com/schoi15-umbc/Diabetes#project-info) 
 
