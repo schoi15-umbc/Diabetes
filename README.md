@@ -22,7 +22,7 @@ Presentation    :<a  </a>
 
 ## **Goals**
 1. Data Preparation     : Cleaning data, and creating visualizations for deeper understandment of the dataset. 
-2. Classification Model : Logistic regression model used and evaluated to find the highest accuracy in predicting diabetes. 
+2. Classification Model : Logistic regression model and Decision Tree model used and evaluated to find the highest accuracy in predicting diabetes. 
 
 ## **Motivation and Background**
 ![fastfacts](https://user-images.githubusercontent.com/70929605/95785162-3d257680-0ca3-11eb-8cdf-26b2d4d49708.JPG)
