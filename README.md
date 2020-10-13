@@ -26,8 +26,8 @@ Presentation    :<a  </a>
 
 ## **Motivation and Background**
 ![fastfacts](https://user-images.githubusercontent.com/70929605/95785162-3d257680-0ca3-11eb-8cdf-26b2d4d49708.JPG)
-According to CDC's National Diabetes Statistics Report, 10.5% (34.2 million people) of USA's total population had diabetes in 2018's records. When looking at the reports over the years, it is clear that the rate is increasing yearly. In 2000, the percentage of people with diabetes was 4.4%, which means that is has more than doubled over 18 years. This caught my attention and encouraged me to look into data about diabetes. 
 
+According to CDC's National Diabetes Statistics Report, 10.5% (34.2 million people) of USA's total population had diabetes in 2018's records. When looking at the reports over the years, it is clear that the rate is increasing yearly. In 2000, the percentage of people with diabetes was 4.4%, which means that is has more than doubled over 18 years. This caught my attention and encouraged me to look into data about diabetes. I will be looking at the different health factors and see which influences a patient to have diabetes, along with predicting diabetes with the different factors. 
 
 ## **Data**
 The dataset is obtained from [Kaggle (diabetes dataset)](https://www.kaggle.com/johndasilva/diabetes), originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient (female, over age 20) has diabetes, based on certain diagnostic measurements included in the dataset. It includes 2000 observations, each representing an individual. 
