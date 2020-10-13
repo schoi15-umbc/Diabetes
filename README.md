@@ -19,6 +19,8 @@ This project is to see if we can predict diabetes based on 8 different factors b
 Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Codes/Diabetes_Report.ipynb>Executive Notebook </a> </a>
 
 Presentation    :<a  </a>
+
+YouTube Presentation: <a href=https://youtu.be/xGK5Hz6mAOo> Video Link </a> </a>
 </pre>
 
 ## **Goals**
