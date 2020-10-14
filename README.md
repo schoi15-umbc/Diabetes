@@ -13,7 +13,7 @@
 
 
 ## **Overview**
-This project is to see if we can predict diabetes based on 8 different factors by using Logistic Regression model, and finding out which factor affects the outcome the most. 
+This project is to see if we can predict diabetes based on 8 different factors by using Logistic Regression model and Decision Tree model, and finding out which factor affects the outcome the most. 
 
 <pre>
 Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Codes/Diabetes_Report.ipynb>Executive Notebook </a> </a>
